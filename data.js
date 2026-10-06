@@ -4,7 +4,7 @@
 // Tempel URL Web App Google Apps Script Anda di ANTARA tanda kutip di bawah ini.
 // Contoh: const GAS_URL = "https://script.google.com/macros/s/AKfycbx.../exec";
 // Selama masih kosong (""), nilai hanya tersimpan di perangkat masing-masing siswa.
-const GAS_URL = "";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbySCKw4p1P6PguhvICPfJHr2EWpkzb9cLEk-hrmstOGpEXByHYGW_GijBC74qlejOu7mQ/exec";
 
 const VID=["","","","","",""]; // isi ID video YouTube tiap bagan, contoh "dQw4w9WgXcQ"
 const C=[
